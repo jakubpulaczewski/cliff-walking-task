@@ -5,10 +5,10 @@ Both Sarsa and Q-learning are temporal difference (TD) learning methods. The ben
 
 The trade-off exploration and exploitation falls intoo two main classes 1) on-policy (Sarsa) and 2) off-policy (Q-Learning). 
 
-##SARSA
+## SARSA
 
 
-##Q-Learning
+## Q-Learning
 
 
 # Results
